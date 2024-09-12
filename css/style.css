@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #252734;
+    color:#798592;
+    
+}
+.header{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 25rem;
+    margin: 0 50px;
+    border: 1px solid;
+    align-items: center;
+    /* position: fixed;
+    top: 0;
+    width: 100%; */
+  
+}
+.div1{
+    display: flex;
+    gap: 70px;
+}
+.but{
+    padding: 15px;
+    border-radius: 5px;
+}
+img{
+   width: 100%;
+   height: 100%;   
+}
+ .con2{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    padding-top: 0px;
+    height: 49rem;
+} 
+.but2{
+    background-color:#252734;
+    color: white;
+    height: 4rem;
+    width: 9rem;
+    border-radius: 5rem;
+    margin-top: 4rem;
+    border: 0.5px groove #9999992c;
+
+}
+.sub1{
+    padding-top: 10rem;
+}
+.hello{
+    width: rem;
+    color: white;
+    height: 5rem;
+    font-size: 6rem;
+    /* text-align: center; */
+}
+.img{
+    width: 40%;
+}
+
+.img img{
+    object-fit: cover;
+}
+.pa{
+    color: white;
+    margin-top: 9rem;
+}
+.service{
+    margin-left:7rem;
+    background-color: #2A2C39;
+    
+}
+.container{
+    color: white;
+}
+.service2{
+ font-size:3rem;
+}
+.service1{
+    font-size:1rem ;
+}
+.div6{
+    width: 90vw;
+    margin: auto;
+    background-color: #2A2C39;
+}
+.div6{
+    display: flex;
+    gap: 5rem;
+    /* border:  1px solid; */
+    
+}
+.div9{
+    /* border: 1px solid; */
+    width: 100%;
+    /* height: 20rem; */
+    text-align: center;
+    background-color:#252734;
+    color: #798592;
+    padding: 20px 20px;
+}
+.div10{
+    display: flex;
+    /* margin-left: 7rem; */
+    width: 90vw;
+    margin: auto;
+    margin-top: 3rem;
+    gap: 20rem;
+    background-color: #2A2C39;
+}
+.com1{
+    width: 25rem;
+    background-color: #2A2C39;
+    /* height: 1rem; */
+    
+    align-items: center;
+    padding: 5rem;
+    border: 1px ;
+    background-color:grey;
+}
+.com2{
+    
+    width: 100%;
+    
+}
+.com3{
+    width: 75%;
+    border: solid white
+    
+    
+}
+.mindiv{
+    align-items: center;
+    padding-top: 10rem;
+    font-size: 2rem; 
+}
+.mindiv p{
+    font-size: 1rem;  
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
