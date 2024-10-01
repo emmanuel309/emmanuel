@@ -148,3 +148,23 @@ img{
     flex-direction: column;
     gap: 2rem;
 }
+.communi1{
+    font-size: 1rem;
+}
+.but3{
+    background-color:#252734;
+    color: white;
+    height: 4rem;
+    width: 9rem;
+    border-radius: 5rem;
+    margin-top: 4rem;
+    border: 0.5px groove #9999992c;
+    margin-left: 4rem;
+  
+}
+.Clients img{
+  width: 1rem;  
+  object-fit: cover;
+  height: rem;
+
+}
